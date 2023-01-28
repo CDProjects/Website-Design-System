@@ -17,6 +17,7 @@ h1 {
 .container {
     border: 2px solid white;
     padding-left: 55px;
+    padding-top: 20px;
 }
 
 h2 {
@@ -101,6 +102,10 @@ h2 {
 
 .iyellow {
     background-color: #FFDC80;
+}
+
+.container {
+    margin-top: 20px;
 }
 
 .font-panel {
