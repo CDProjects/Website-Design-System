@@ -97,9 +97,31 @@ h2 {
 
 .iorange-yellow {
     background-color: #FCAF45;
-    color: white;
 }
 
 .iyellow {
     background-color: #FFDC80;
+}
+
+.font-panel {
+    width: 24%;
+    display: inline-block;
+    color: white;
+}
+
+.font-label {
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.regular {
+    font-style: normal;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.italic {
+    font-style: italic;
 }
